@@ -31,11 +31,16 @@ I am **not affiliated** with the course or Carnegie Mellon University in any way
 
 Feel free to explore, and you're very welcome to discuss and learn together!
 
-## Disclaimer
+## 📘 Disclaimer
 
-- These solutions are based on **my personal understanding** and may be **incomplete or incorrect**.
-- Do **not** copy or submit these answers as your own — always verify with official course materials or other trusted resources.
-- I'm open to feedback or corrections — feel free to open an issue or pull request if you spot something wrong.
+This repository contains my personal solutions and notes created during my self-study of the publicly available course content from [https://mlsyscourse.org](https://mlsyscourse.org).  
+
+- I am **not enrolled** in 15-442 / 15-642 at Carnegie Mellon University, and this repository does **not** represent any official course submission.
+- All implementations and explanations are based on **my own understanding**, and may be **incomplete or incorrect**.
+- The purpose of this repository is to **document my learning journey**, and to **share knowledge with others** who are also studying similar topics.
+- Please **do not copy or submit** any of this work as your own. Always refer to the **official course materials** and follow your institution’s **Academic Integrity Policy**.
+- I do **not claim ownership** of any course materials (e.g., lecture slides or starter code) that were made publicly available by the course instructors.
+- If you are an instructor or course staff and believe any part of this repository should be removed or revised, feel free to reach out.
 
 ## Contact
 
